@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡ Happy Month ! ୨୧</title>
+    <style> body{
+
+        background-color: rgb(250, 142, 201);
+        color: aliceblue;
+        margin-left: 450px;
+    }
+    </style>
+
+</head>
+<body>
+    <h1> <u>₊˚ʚ Feliz Mes Amor ₊˚✧ ﾟ.</u> </h1>
+    <div align="left"> <p> hola lauti, espero te guste el regalo porque la verdad 
+        <br>
+       me costó un huevo, se me borró el código como cinco veces, pero bueno.
+        <br>
+        Esta página está exclusivamente dedicada a vos, porque te lo mereces
+        <br>
+        y porque me gustas muchisimo, sin duda este primer mes juntos como
+        <br>
+        pareja fueron los mejores, no puedo evitar sentirme bien cada vez que estoy
+        <br>
+        con vos. Además de lo segura y feliz que me haces sentir, me encanta el hecho
+        <br>
+        de que juntos seamos tan dinámicos y completamente espontáneos a pesar de las
+        <br> 
+        diferencias que tenemos. <3 </p> 
+        </div>
+        <div class="intro"> </div>
+</body>
+</html>

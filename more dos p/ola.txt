@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡ Happy Month ! ??</title>
+    <style> body{
+
+        background-color: rgb(250, 142, 201);
+        color: aliceblue;
+        margin-left: 450px;
+    }
+    </style>
+</head>
+<body>
+    <h1> <u>?°? Feliz Mes Amor ?°? ?.</u> </h1>
+    <div align="left"> <p> hola lauti, espero te guste el regalo porque la verdad 
+        <br>
+       me costó un huevo pq se me borró el código como cinco veces, pero bueno.
+        <br>
+        Esta página está exclusivamente dedicada a vos, porque te lo mereces
+        <br>
+        y porque me gustas muchisimo, sin duda este primer mes juntos como
+        <br>
+        pareja fue el mejor del mundo, no puedo evitar sentirme bien cada vez que estoy
+        <br>
+        con vos. Además de lo segura y feliz que me haces sentir, me encanta el hecho
+        <br>
+        de que juntos seamos tan dinámicos y completamente espontáneos a pesar de las
+        <br> 
+        diferencias que tenemos. <3 </p> 
+        </div>
+        <div class="intro"> </div>
+</body>
+<section>
+<img src="https://pbs.twimg.com/media/FyYK51NWYAAV-Kg?format=jpg&name=900x900">
+<img src="https://pbs.twimg.com/media/FyYKqfdWYAc7988?format=jpg&name=900x900">
+<img src="https://pbs.twimg.com/media/FyYKwgMWcAEWADL?format=jpg&name=900x900">
+<img src="https://pbs.twimg.com/media/FyYK3S2WAAEbr9R?format=jpg&name=small">
+</section>
+</html>
+
+STYLE CSS
+.intro { 
+    width: 600px;
+    height: 20px;
+    background-color: rgb(186, 241, 191);
+    margin-right: 1000px;
+}
+section{ 
+    display: flex;
+    width: 600px;
+    height: 300px;
+}
+section img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+}
+section img:hover {
+    cursor: crosshair;
+    width: 300px;
+    opacity: 1;
+    filter: contrast(120%);}
